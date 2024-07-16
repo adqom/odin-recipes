@@ -5,13 +5,16 @@
 .flex_container {
     display: flex;
     justify-content:center;
-    border: 2px solid black;
+    border: 4px solid black;
+    padding: 12px;
   }
   
 .flex_container div {
     background: peachpuff;
-    border: 4px solid brown;
-    height: 200px;
+    border: 4px solid salmon;
+    height: 48px;
+    flex: 1;
+    margin: 4px;
   }
   
   /* .main-content {
