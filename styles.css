@@ -1,23 +1,25 @@
 * {
-    outline: 2px solid red;
+    /* outline: 2px solid black; */
 }
 
-div {
+.flex_container {
     padding: 30px;
     text-align: center;
     margin-bottom: 10px;
     color: #EEEEEE;
   }
   
-  .introduction {
-    background-color: #548CA8;
+  .flex_container div {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
   }
   
-  .main-content {
+  /* .main-content {
     background-color: #476072;
   }
   
   .contact-us {
     background-color: #334257;
-  }
+  } */
 
