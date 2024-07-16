@@ -10,7 +10,7 @@
   }
   
 .flex_container div {
-    background: peachpuff;
+    background-color:aqua;
     border: 4px solid salmon;
     height: 48px;
     flex: 1;
