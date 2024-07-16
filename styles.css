@@ -4,12 +4,14 @@
 
 .flex_container {
     display: flex;
+    justify-content:center;
+    border: 2px solid black;
   }
   
 .flex_container div {
     background: peachpuff;
     border: 4px solid brown;
-    height: 100px;
+    height: 200px;
   }
   
   /* .main-content {
