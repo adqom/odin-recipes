@@ -4,13 +4,14 @@
 
 .flex_container {
     display: flex;
+    background-color: aqua;
     justify-content:center;
     border: 4px solid black;
     padding: 12px;
   }
   
 .flex_container div {
-    background-color:aqua;
+    background-color:rgb(21, 255, 0);
     border: 4px solid salmon;
     height: 48px;
     flex: 2;
@@ -18,11 +19,14 @@
     justify-content: center;
   }
   
-  /* .main-content {
+  .introduction {
+    background-color: #476072;
+  }
+    .main-content {
     background-color: #476072;
   }
   
   .contact-us {
     background-color: #334257;
-  } */
+  }
 
