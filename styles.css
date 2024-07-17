@@ -20,13 +20,13 @@
   }
   
   .introduction {
-    background-color: #476072;
+      align-content: center;
   }
     .main-content {
-    background-color: #476072;
+      align-content: center;
   }
   
-  .contact-us {
-    background-color: #334257;
+    .contact-us {
+      align-content: center;
   }
 
