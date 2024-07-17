@@ -16,17 +16,18 @@
     height: 48px;
     flex: 1;
     margin: 4px;
-    justify-content: center;
-    text-align: center;
-/*   
-  .introduction {
-      align-content: center;
+    /* justify-content: center;
+    text-align: center; */
+  
+  .flex_container .introduction {
+      justify-items: center;
   }
-    .main-content {
-      align-content: center;
+  .flex_container .main-content {
+      justify-items: center;
+      flex: 2 1 0%;
   }
   
-    .contact-us {
-      align-content: center;
-  } */
+  .flex_container .contact-us {
+      justify-items: center;
+  }
 
