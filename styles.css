@@ -14,20 +14,19 @@
     background-color:rgb(255, 153, 0);
     border: 4px solid salmon;
     height: 48px;
-    flex: 1;
+    flex: 1 1 auto;
     margin: 4px;
-    /* justify-content: center;
-    text-align: center; */
+    text-align: center;
   
   .flex_container .introduction {
-      justify-items: center;
+      justify-content: center;
   }
   .flex_container .main-content {
-      justify-items: center;
+      justify-content: center;
       flex: 2 1 0%;
   }
   
   .flex_container .contact-us {
-      justify-items: center;
+      justify-content: center;
   }
 
